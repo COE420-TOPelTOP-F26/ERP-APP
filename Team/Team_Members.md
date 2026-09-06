@@ -10,3 +10,9 @@ Team member B
 - Student ID: g00099746
 - Major/Program: CS
 - GitHub Username: talaabedd523
+
+Team member C
+- Full Name: Razan El Gendy
+- Student ID: g00099305
+- Major/Program: CS
+- GitHub Username: razanhany2610
