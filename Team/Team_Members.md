@@ -17,7 +17,7 @@ Team member C
 - Major/Program: CS
 - GitHub Username: razanhany2610
 
-- Team member D
+Team member D
 - Full name: Kholoud Elkholy
 - Student ID: g00099492
 - Major/Program: CS
