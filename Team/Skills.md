@@ -1,7 +1,17 @@
 # Skills
-Team Member A
-- Programming: C++, Python
-- Web Development: HTML, CSS, JavaScript
-- Software Development
-- UI/UX Design
-- Presentation and Communication
+
+Team member A
+
+- Skills: C++, Python, HTML, CSS, JavaScript, Software Development, UI/UX Design, Presentation and Communication
+
+Team member B
+
+- Skills: Deep Learning, Quantum Machine Learning, Python, Java, SQL, HTML/CSS/JavaScript
+
+Team member C
+
+- Skills: Python, Java, HTML, CSS, JavaScript, React, PHP, Laravel, SQL, Deep Learning
+
+Team member D
+
+- Skills: VMware, Python, C++, Machine Learning, Deep learning, Docker
