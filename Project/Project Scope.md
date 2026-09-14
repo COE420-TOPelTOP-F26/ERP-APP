@@ -1,20 +1,21 @@
 Project Scope
+
 1. Project Objective
 The objective of ONE is to develop a user-friendly employee application that provides a centralized interface for accessing essential workplace services and ERP-related functions. The system aims to reduce the complexity of using traditional ERP interfaces by allowing employees to submit and track requests, manage leave and attendance, access company information, borrow IT assets, and receive assistance through ONEAI.
 2. Target Users
-•	Employees — primary users who submit and track workplace requests and access employee services.
-•	Managers — review and approve or reject employee requests.
-•	HR Department — manages employee-related processes, leave, policies, and announcements.
-•	IT Department — manages IT assets and employee IT support requests.
-•	Finance Department — handles travel expense processes.
-•	System Administrators — manage users, permissions, configurations, and integrations.
-•	Company Management — monitors organizational processes and employee service efficiency.
+•	Employees - primary users who submit and track workplace requests and access employee services.
+•	Managers - review and approve or reject employee requests.
+•	HR Department - manages employee-related processes, leave, policies, and announcements.
+•	IT Department - manages IT assets and employee IT support requests.
+•	Finance Department - handles travel expense processes.
+•	System Administrators - manage users, permissions, configurations, and integrations.
+•	Company Management - monitors organizational processes and employee service efficiency.
 3. In-Scope Features
 Feature	Description
 ONE Dashboard	Personalized overview of attendance, requests, approvals, notifications, and upcoming leave.
 Employee Authentication	Secure login, role-based access, and employee profile.
 Leave Management	Submit and track different types of leave and view request history.
-Attendance & Office Timer	Integration with the company's attendance/fingerprint system where technically available; display recorded entry/exit and working time.
+Attendance \& Office Timer	Integration with the company's attendance/fingerprint system where technically available; display recorded entry/exit and working time.
 Travel Expenses	Submit travel expenses, upload receipts, and track request status.
 ONE Approvals	Route requests according to administrative level and allow authorized users to approve, reject, or review requests.
 ONE Assets	Request, borrow, return, and track IT assets.
