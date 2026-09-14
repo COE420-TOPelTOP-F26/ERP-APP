@@ -1,5 +1,10 @@
-\# ERP Lite
+\# ONE - ERP App
 
-Enterprise ERP systems such as Oracle are powerful but often complex and difficult for everyday employees to navigate, since they are designed primarily for administrators rather than regular staff. ERP Lite proposes a simplified interface layer built on top of an ERP system like Oracle, aimed at everyday employees who need to perform common tasks — such as submitting requests, checking schedules, or viewing inventory — without dealing with the full complexity of the original platform.
 
-The system will connect to ERP data (using Oracle as a reference/example, with a mock dataset for this course project), present a clean role-based dashboard showing only relevant functions, and guide users through common workflows with a simpler, more intuitive experience than the native ERP interface.
+
+ONE is a centralized employee application designed to provide a simple, user-friendly interface for accessing essential workplace services and ERP-related functions. Instead of requiring employees to navigate complex ERP systems or multiple separate platforms, ONE brings commonly used employee services into one application.
+
+
+
+The application will include request management, attendance, leave, travel expenses, approvals, IT asset management, employee information, notifications, company documents, and an AI-powered company assistant called ONEAI.
+
