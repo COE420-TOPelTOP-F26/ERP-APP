@@ -15,6 +15,7 @@ Team member B
 * GitHub Username: talaabedd523
 
 Team member C
+<<<<<<< HEAD
 
 * Full Name: Razan El Gendy
 * Student ID: g00099305
@@ -30,3 +31,15 @@ Team member D
 
 
 
+=======
+- Full Name: Razan El Gendy
+- Student ID: g00099305
+- Major/Program: CS
+- GitHub Username: razanhany2610
+
+Team member D
+- Full name: Kholoud Elkholy
+- Student ID: g00099492
+- Major/Program: CS
+- GitHub Username: kholoudelkholy05
+>>>>>>> 75171a40c88289223ecf1307fe182264453fab71
