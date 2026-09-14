@@ -1,1 +1,2 @@
-# ERP Lite
+# ONE - ERP App
+
