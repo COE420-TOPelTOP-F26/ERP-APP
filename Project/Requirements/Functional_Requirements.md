@@ -1,7 +1,5 @@
 # Functional Requirements — ONE System
 
-Each row retains its original contributor. “Shall” specifies functionality the proposed system must provide.
-
 | ID | Functional requirement | Source | Contributor |
 |---|---|---|---|
 | FR-01 | The system shall allow an employee to submit a leave request specifying the leave type, start date, and end date. | S-01 | Tala Abed |

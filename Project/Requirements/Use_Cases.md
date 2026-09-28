@@ -1,7 +1,5 @@
 # Use Cases — ONE System
 
-The following are the 20 individual use case contributions and the approved use cases represented in the overall team diagram.
-
 | ID | Use case | Primary actor | Short description | Contributor |
 |---|---|---|---|---|
 | UC-01 | Submit Leave Request | Employee | Submit a leave request with a leave type and dates. | Tala Abed |

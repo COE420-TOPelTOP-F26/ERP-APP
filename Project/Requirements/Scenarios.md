@@ -1,9 +1,31 @@
-# Lab 3 Scenarios
+# Scenarios — ONE System
 
-| ID | Scenario | Actor or stakeholder | Description |
-|---|---|---|---|
-| S-01 | Last-Minute Vacation Request | Employee | An employee needs annual leave from October 5–9 for a family trip. They submit the request in ONE and receive a notification that it has been routed to their manager. |
-| S-02 | Clearing Pending Leave Requests | Manager | A manager opens ONE Approvals, reviews three pending leave requests and their remaining balances, approves two, and flags one for a discussion because of a scheduling conflict. |
-| S-03 | Reimbursing a Business Trip | Employee, Finance Department | After a conference, an employee uploads a $250 hotel receipt and a $60 taxi receipt, categorizes the expenses, and submits a claim. Finance reviews the claim and processes reimbursement. |
-| S-04 | Equipping a New Hire with a Laptop | Employee, IT Department | A manager requests a temporary laptop for a new employee through ONE Assets. IT checks availability, issues the laptop, and updates the asset record. |
-| S-05 | Answering a Remote Work Policy Question | Employee | An employee asks ONEAI how many remote work days are allowed per month. ONEAI answers using an approved policy document and provides a link to it. |
+## S-01: Leave Request and Approval
+
+**Actors:** Employee, Manager
+
+An employee selects a leave type and start and end dates, then submits a leave request. The employee's manager reviews the pending request and the employee's leave balance, approves or rejects it, and the employee receives the decision.
+
+## S-02: Expenses and Employee Records
+
+**Actors:** Employee, Finance Department, HR Department
+
+An employee submits a travel expense claim with a category, amount, and receipt, then checks the status of submitted requests. The employee can also view available payslips and their profile information, submit profile changes for HR verification, and report a payslip discrepancy to Finance when needed.
+
+## S-03: Dashboard, Attendance, and Directory
+
+**Actor:** Employee
+
+An employee signs in to ONE and views a personalized dashboard showing attendance, pending requests, notifications, and upcoming leave. The employee reviews recorded attendance and searches the employee directory by name, department, or position.
+
+## S-04: Policies, Documents, and Announcements
+
+**Actors:** Employee, HR Department
+
+An employee asks ONEAI a question about the remote work policy. ONEAI answers using approved company documents and identifies the relevant source. The employee can search for, view, and download authorized policies and forms. HR can publish an announcement, and employees can view its details on ONE.
+
+## S-05: IT Assets and Support
+
+**Actors:** Employee, Manager, IT Department
+
+An employee requests an IT asset, asks to extend a borrowed asset's due date, or requests to return it. The employee can also submit an IT support request with an issue category and description, then track the ticket's status and updates. The appropriate manager or IT staff reviews and updates the relevant requests.
