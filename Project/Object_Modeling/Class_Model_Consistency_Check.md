@@ -21,3 +21,10 @@
 | Profile changes | FR-14; S-02 | ProfileChangeRequest retains proposed values; HROfficer verifies before apply(). | 1.0 / D1, D2 |
 | Asset extensions | FR-09; S-05 | AssetRequest (EXTENSION) routes to the direct manager; IT applies the approved date. | 5.0 / D2 |
 
+| Relationships | Verification |
+|---|---|
+| Employee access | One UserAccount per Employee; each account has 1..* Roles, and each Role grants 1..* Permissions. Staff inherit Employee self-service behavior. |
+| Requests and audit | Each Request has one submitter and 1..* AuditEntries. ApprovalDecision has one accountable reviewer; a request may have 0..* decisions when reviewed again. |
+| Assets | Each loan belongs to one employee and asset; at most one loan per asset is open. Extensions/returns require an existing employee-owned loan; return closes it only after IT confirmation. |
+| Finance and files | Each ExpenseItem has one receipt Attachment. Each discrepancy concerns the submitter’s Payslip; a payslip owns 1..* line items. |
+| Answers and notifications | AIQuery owns 0..1 AIResponse. An answer must cite approved accessible sources; a no-answer response may cite none. Each notification has one recipient and a valid request, announcement or reminder target. |
